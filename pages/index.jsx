@@ -3,6 +3,7 @@ import Navbar from '../components/navbar';
 import Jumbotron from '../components/jumbotron';
 import Picture from '../components/picture';
 import Footer from '../components/footer';
+import Tec from '../components/tec';
 import '../static/css/pages.css';
 
 const Home = () => (

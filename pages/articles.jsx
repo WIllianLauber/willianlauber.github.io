@@ -5,11 +5,11 @@ import Picture from '../components/picture';
 import Footer from '../components/footer';
 import '../static/css/pages.css';
 
-const Articles = () => (
+const App = () => (
 <aside>
 Por enquanto acompanhe em minha página do <a href="https://medium.com/@willianlauber">Medium.</a>
 </aside>
 );
 
 
-export default Article;
+export default App;
