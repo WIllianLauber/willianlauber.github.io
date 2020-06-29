@@ -8,8 +8,8 @@ import '../static/css/pages.css';
 const Home = () => (
   <div>
     <Navbar />
-    <Jumbotron phrase="From Front to Back." subtitle="A list of full stack, front end, and back end projects I worked on" />
-    <h3>Full Stack Applications</h3>
+    <Jumbotron phrase="From Front to Back." subtitle="Projetos" />
+    <h3>Soluções WEB</h3>
     <hr />
     <div className="row">
      

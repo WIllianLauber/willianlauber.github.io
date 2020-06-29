@@ -14,7 +14,7 @@ const App = () => (
     <hr />
     <div className="row">
       <div className="col contactCol">
-        <Card source="../static/pics/gmail.png" text="dslatuno@gmail.com" />
+        <Card source="../static/pics/gmail.png" text="willianlauber@gmail.com" />
         <Card source="../static/pics/github.png" text={<a href="https://github.com/WillianLauber" target="_blank" ><button type="button" className="btn-dark">GitHub</button></a>} />
         <Card source="../static/pics/medium.png" text={<a href="https://medium.com/@willianlauber" target="_blank" ><button type="button" className="btn-dark">Medium</button></a>} />
         <Card source="../static/pics/linkedin.png" text={<a href="https://www.linkedin.com/in/willian-a-lauber-713b91b7/" target="_blank" ><button type="button" className="btn-dark">LinkedIn</button></a>} />
